@@ -1,0 +1,6 @@
+{
+  "name": "Project Red String - Windows Workstation Node",
+  "description": "Symmetric P2P Cross-Device Nexus & Reactive Telemetry Fabric (ARCH-V2.4). High-performance zero-knowledge peer-to-peer linking for Windows workstations with procedural Magic Circle visual cryptography, 64KB binary framing, Fate Sync mesh, and Fate Watch teleprompter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
